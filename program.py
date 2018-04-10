@@ -1,8 +1,8 @@
 import numpy as np
 from matplotlib import pyplot as plt
 
-data_set1_path = '/home/crt/Documents/Tencent Files/474423389/FileRecv/machine-learning-ex2/ex2/ex2data1.txt'
-data_set2_path = '/home/crt/Documents/Tencent Files/474423389/FileRecv/machine-learning-ex2/ex2/ex2data2.txt'
+data_set1_path = 'ex2data1.txt'
+data_set2_path = 'ex2data2.txt'
 
 
 def standardization(_array_list):
